@@ -1,4 +1,4 @@
-# Liquefaction-XGB-SHAP-Jas-Dodagoudar
+# Liquefaction-XGBoost-SHAP-Jas-Dodagoudar
 This repository is associated with interpretable liquefaction potential assessment model. This model is developed by using XGBoost and SHAP. 
 The CPT database used to developed the model was CPT. This CPT database is collected from Boulanger and Idriss (2014, 2016).
 
