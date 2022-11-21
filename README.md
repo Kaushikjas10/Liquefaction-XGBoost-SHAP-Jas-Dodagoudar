@@ -8,6 +8,8 @@ Jas, K., and G. R. Dodagoudar. 202*. "Liquefaction Potential Assessment of Soils
 
 In case any queries about this work, feel free to contact with this email id: ce19d202@smail.iitm.ac.in.
 
+The codes and model files will be uploaded soon.
+
 Reference for the original dataset:
 
 Boulanger, R.W., and I.M. Idriss. 2004. Evaluating the Potential for Liquefaction or Cyclic Failure of Silts and Clays, Report No.: UCD/CGM-04/01, Center for Geotechnical Modeling, Department of Civil and Environmental Engg., University of California, Davis, USA.
