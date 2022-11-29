@@ -12,5 +12,5 @@ The codes and model files will be uploaded soon.
 
 Reference for the original dataset:
 
-Boulanger, R.W., and I.M. Idriss. 2004. Evaluating the Potential for Liquefaction or Cyclic Failure of Silts and Clays, Report No.: UCD/CGM-04/01, Center for Geotechnical Modeling, Department of Civil and Environmental Engg., University of California, Davis, USA.
-Boulanger, R. W., and I. M. Idriss. 2006. “Liquefaction susceptibility criteria for silts and clays.” J. Geotech. Geoenviron. Eng. 132(11):1413–1426. https://doi.org/10.1061/(ASCE)1090-0241(2006)132:11(1413). 
+Boulanger, R.W., and I.M. Idriss. 2014. Evaluating the Potential for Liquefaction or Cyclic Failure of Silts and Clays, Report No.: UCD/CGM-04/01, Center for Geotechnical Modeling, Department of Civil and Environmental Engg., University of California, Davis, USA.
+Boulanger, R. W., and I. M. Idriss. 2016. “Liquefaction susceptibility criteria for silts and clays.” J. Geotech. Geoenviron. Eng. 132(11):1413–1426. https://doi.org/10.1061/(ASCE)1090-0241(2006)132:11(1413). 
