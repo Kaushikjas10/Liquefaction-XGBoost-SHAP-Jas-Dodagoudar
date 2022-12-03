@@ -1,0 +1,11 @@
+Kaushik Jas, G.R. Dodagoudar,
+Explainable machine learning model for liquefaction potential assessment of soils using XGBoost-SHAP,
+Soil Dynamics and Earthquake Engineering,
+Volume 165,
+2023,
+107662,
+ISSN 0267-7261,
+https://doi.org/10.1016/j.soildyn.2022.107662.
+(https://www.sciencedirect.com/science/article/pii/S0267726122005073)
+Abstract: Most of the existing machine learning (ML)-based models for liquefaction assessment of soils are black-box in nature. Database considered in the existing studies for model development is imbalanced. In this study, an attempt is made to include the coefficient of permeability and thickness of the critical layer from the available information to the existing database. The eXtreme Gradient Boosting (XGBoost) ML algorithm is used for the model development in a probabilistic framework. The k-means synthetic minority oversampling technique (SMOTE) is introduced to improve the overall accuracy of the model by suitably modelling the imbalanced dataset. An improvement of the model is also performed by tuning the hyperparameters using searching algorithms to increase further the accuracy. An explainable machine learning (EML) technique, SHapley Additive exPlanations (SHAP) is employed to provide additional insights into the developed XGBoost model. From the SHAP results, it is found that the equivalent clean sand cone penetration resistance and coefficient of permeability are the first and the fourth important input parameters affecting the liquefaction potential. It is concluded that the EML technique is capable of bridging the gap between the conventional domain knowledge of liquefaction and soft computing approaches.
+Keywords: Liquefaction potential; Liquefaction database; Coefficient of permeability; Oversampling technique; Machine learning; XGBoost ML algorithm; Searching algorithms; Explainable machine learning; SHAP method
