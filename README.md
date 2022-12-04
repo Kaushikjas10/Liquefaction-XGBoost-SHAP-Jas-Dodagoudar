@@ -3,6 +3,7 @@ This repository is associated with interpretable liquefaction potential assessme
 The CPT database used to developed the model was CPT. This CPT database is collected from Boulanger and Idriss (2014, 2016).
 
 This repository contains these files: processed dataset, Model D, SHAP explainer, and a few developed codes.
+
 This repository is part of the below project. If you use this in your work, dont forget to cite as below:
 Jas, K., and G. R. Dodagoudar. Forthcoming. "Explainable machine learning model for liquefaction potential assessment of soils using XGBoost-SHAP." Soil Dynamics and Earthquake Engineering.165:107662. https://doi.org/10.1016/j.soildyn.2022.107662. 
 Diect link to this article: https://www.sciencedirect.com/science/article/pii/S0267726122005073 
@@ -11,7 +12,11 @@ In case any queries about this work, feel free to contact with this email id: ce
 
 The codes and model files will be uploaded soon.
 
-Reference for the original dataset:
+# File descriptions
+
+
+
+# Reference for the original dataset:
 
 Boulanger, R.W., and I.M. Idriss. 2014. Evaluating the Potential for Liquefaction or Cyclic Failure of Silts and Clays, Report No.: UCD/CGM-04/01, Center for Geotechnical Modeling, Department of Civil and Environmental Engg., University of California, Davis, USA.
 Boulanger, R. W., and I. M. Idriss. 2016. “Liquefaction susceptibility criteria for silts and clays.” J. Geotech. Geoenviron. Eng. 132(11):1413–1426. https://doi.org/10.1061/(ASCE)1090-0241(2006)132:11(1413). 
