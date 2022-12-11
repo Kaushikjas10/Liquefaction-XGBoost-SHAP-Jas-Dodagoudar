@@ -10,10 +10,16 @@ Diect link to this article: https://www.sciencedirect.com/science/article/pii/S0
 
 In case any queries about this work, feel free to contact with this email id: ce19d202@smail.iitm.ac.in.
 
-The codes and model files will be uploaded soon.
+The codes and model files will be uploaded soon..........
 
 # File descriptions
 
+(1) [KperIFinal.m; BI2016PerFromSBTData.mat; BI2016PerFromSBTDataWork.m]: 
+These files are the codes related to the calculation of permeability values of soils using the soil behaviour type index.
+
+(2) [MODEL D_Liq_Jas_Dodagoudar.json; MODEL D_Liq_Jas_Dodagoudar.txt]: These are the XGBoost model files with two different extensions. This file can be loaded in the Python platform to predict the liquefaction potential assement for site(s) of interest having all IPs in a excel spreadsheet.
+
+(3) Explanation model will be uploaded soon...............
 
 # Cite it as
 Jas, K., and Dodagoudar, G. R. (2023). "Explainable machine learning model for liquefaction potential assessment of soils using XGBoost-SHAP." Soil Dynamics and Earthquake Engineering.165:107662. https://doi.org/10.1016/j.soildyn.2022.107662. 
