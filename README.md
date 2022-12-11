@@ -5,7 +5,7 @@ The CPT database used to developed the model was CPT. This CPT database is colle
 This repository contains these files: processed dataset, Model D, SHAP explainer, and a few developed codes.
 
 This repository is part of the below project. If you use this in your work, dont forget to cite as below:
-Jas, K., and G. R. Dodagoudar. Forthcoming. "Explainable machine learning model for liquefaction potential assessment of soils using XGBoost-SHAP." Soil Dynamics and Earthquake Engineering.165:107662. https://doi.org/10.1016/j.soildyn.2022.107662. 
+Jas, K., and G. R. Dodagoudar. 2023. "Explainable machine learning model for liquefaction potential assessment of soils using XGBoost-SHAP." Soil Dynamics and Earthquake Engineering.165:107662. https://doi.org/10.1016/j.soildyn.2022.107662. 
 Diect link to this article: https://www.sciencedirect.com/science/article/pii/S0267726122005073 
 
 In case any queries about this work, feel free to contact with this email id: ce19d202@smail.iitm.ac.in.
@@ -15,6 +15,8 @@ The codes and model files will be uploaded soon.
 # File descriptions
 
 
+# Cite it as
+Jas, K., and Dodagoudar, G. R. (2023). "Explainable machine learning model for liquefaction potential assessment of soils using XGBoost-SHAP." Soil Dynamics and Earthquake Engineering.165:107662. https://doi.org/10.1016/j.soildyn.2022.107662. 
 
 # Reference for the original dataset:
 
