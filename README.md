@@ -18,6 +18,8 @@ In case any queries about this work, feel free to contact with this email id: ce
 
 # File descriptions
 
+(0) [Processed dataset]: It is available with the article in the supplymentary material at "Appendix C".
+
 (1) [KperIFinal.m; BI2016PerFromSBTData.mat; BI2016PerFromSBTDataWork.m]: 
 These files are the codes related to the calculation of permeability values of soils using the soil behaviour type index.
 
