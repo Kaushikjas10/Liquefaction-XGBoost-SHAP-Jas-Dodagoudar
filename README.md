@@ -20,16 +20,16 @@ These files are the codes related to the calculation of permeability values of s
 
 (2) [MODEL D_Liq_Jas_Dodagoudar.json; MODEL D_Liq_Jas_Dodagoudar.txt]: These are the XGBoost model files with two different extensions. This file can be loaded in the Python platform to predict the liquefaction potential assessment for site(s) of interest having all IPs in a excel spreadsheet.
 
-(3) Explanation model will be uploaded soon...............
+(3) [explainer_SHAP_Jas_Dodagoudar.pkl]: This is the SHAP "explainer" file corresponding to Model D. This file can be loaded in the Python platform to predict the liquefaction potential with SHAP values. From this "explainer" and SHAP values, the SHAP plots can be plotted. Alternatively, this "explainer" file can be generated for Model D using SHAP package. 
 
-(4) Interactive online tutorial: Will be uploaded soon....................
+(4) Interctive hands-on Python code for using these files will be uploaded soon............................
 
-(5) Interctive hands-on Python code for using these files will be uploaded soon............................
+(5) Interactive online tutorial: Will be uploaded soon....................
 
-# Cite it as
+# Cite it as:
 Jas, K., and Dodagoudar, G. R. (2023). "Explainable machine learning model for liquefaction potential assessment of soils using XGBoost-SHAP." Soil Dynamics and Earthquake Engineering.165:107662. https://doi.org/10.1016/j.soildyn.2022.107662. 
 
 # Reference for the original dataset:
 
 Boulanger, R.W., and I.M. Idriss. 2014. Evaluating the Potential for Liquefaction or Cyclic Failure of Silts and Clays, Report No.: UCD/CGM-04/01, Center for Geotechnical Modeling, Department of Civil and Environmental Engg., University of California, Davis, USA.
-Boulanger, R. W., and I. M. Idriss. 2016. “Liquefaction susceptibility criteria for silts and clays.” J. Geotech. Geoenviron. Eng. 132(11):1413–1426. https://doi.org/10.1061/(ASCE)1090-0241(2006)132:11(1413). 
+Boulanger, R. W., and I. M. Idriss. 2016. Liquefaction susceptibility criteria for silts and clays. J. Geotech. Geoenviron. Eng. 132(11):1413–1426. https://doi.org/10.1061/(ASCE)1090-0241(2006)132:11(1413). 
