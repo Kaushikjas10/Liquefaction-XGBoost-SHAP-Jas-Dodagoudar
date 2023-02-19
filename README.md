@@ -27,9 +27,11 @@ These files are the codes related to the calculation of permeability values of s
 
 (3) [explainer_SHAP_Jas_Dodagoudar.pkl]: This is the SHAP "explainer" file corresponding to Model D. This file can be loaded in the Python platform to predict the liquefaction potential with SHAP values. From this "explainer" and SHAP values, the SHAP plots can be plotted. Alternatively, this "explainer" file can be generated for Model D using SHAP package. 
 
-(4) Interctive hands-on Python code (Beta version) for using these files will be uploaded soon............................
+(4) [TestSites.xlsx or TestSites.csv]: This is the  spreadsheet templates of the test sites where you want to assess liquefaction potential of soils using the developed model.
 
-(5) Interactive online tutorial: Will be uploaded soon....................
+(5) Interctive hands-on Python code (Beta version) for using these files will be uploaded soon............................
+
+(6) Interactive online tutorial: Will be uploaded soon....................
 
 # Cite it as:
 Jas, K., and Dodagoudar, G. R. (2023). "Explainable machine learning model for liquefaction potential assessment of soils using XGBoost-SHAP." Soil Dynamics and Earthquake Engineering.165:107662. https://doi.org/10.1016/j.soildyn.2022.107662. 
