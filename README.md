@@ -18,7 +18,8 @@ In case any queries about this work, feel free to contact with this email id: ce
 
 # File descriptions
 
-(0) [Processed dataset]: It is available with the article in the supplymentary material at "Appendix C".
+(0) [Processed dataset]: It is available with the article in the supplymentary material at "Appendix C". The file is now available in this repository as file name "KJAS_GRD_SDEE_Supply.pdf".
+This is the same dataset used for the model training and testing. This same file is attached to the SDEE journal section.
 
 (1) [KperIFinal.m; BI2016PerFromSBTData.mat; BI2016PerFromSBTDataWork.m]: 
 These files are the codes related to the calculation of permeability values of soils using the soil behaviour type index.
