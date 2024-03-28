@@ -32,7 +32,7 @@ These files are the codes related to the calculation of permeability values of s
 
 (5) [Implement_CPT_MODEL_KJGRD_SDEE_v1.1.ipynb]: This Python script is provided to give a hands-on demonstration of using the developed CPT-based model in the Jupyter Notebook platform.
 
-(6) Interactive online tutorial: Will be uploaded soon....................
+(6) Interactive online video tutorial: Will be uploaded soon....................
 
 # Cite it as:
 Jas, K., and Dodagoudar, G. R. (2023). "Explainable machine learning model for liquefaction potential assessment of soils using XGBoost-SHAP." Soil Dynamics and Earthquake Engineering.165:107662. https://doi.org/10.1016/j.soildyn.2022.107662. 
@@ -45,5 +45,5 @@ Boulanger, R. W., and I. M. Idriss. 2016. Liquefaction susceptibility criteria f
 
 # Release notes:
 ## Update 28-03-2024:
-The final version of the hands-on demonstration of the developed model is uploaded: Implement_CPT_MODEL_KJGRD_SDEE_v1.1.ipynb.
+The final version of the hands-on demonstration of the developed model is uploaded: Implement_CPT_MODEL_KJGRD_SDEE_v1.1.ipynb. An interactive online video tutorial will be uploaded soon in the next release.
 
