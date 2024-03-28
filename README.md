@@ -30,7 +30,7 @@ These files are the codes related to the calculation of permeability values of s
 
 (4) [TestSites.xlsx or TestSites.csv]: This is the  spreadsheet templates of the test sites where you want to assess liquefaction potential of soils using the developed model.
 
-(5) Interctive hands-on Python code (Beta version) for using these files will be uploaded soon............................
+(5) [Implement_CPT_MODEL_KJGRD_SDEE_v1.1.ipynb]: This Python script is provided to give a hands-on demonstration of using the developed CPT-based model in the Jupyter Notebook platform.
 
 (6) Interactive online tutorial: Will be uploaded soon....................
 
@@ -42,3 +42,8 @@ Jas, K., and Dodagoudar, G. R. (2023). "Explainable machine learning model for l
 Boulanger, R.W., and I.M. Idriss. 2014. Evaluating the Potential for Liquefaction or Cyclic Failure of Silts and Clays, Report No.: UCD/CGM-04/01, Center for Geotechnical Modeling, Department of Civil and Environmental Engg., University of California, Davis, USA.
 
 Boulanger, R. W., and I. M. Idriss. 2016. Liquefaction susceptibility criteria for silts and clays. J. Geotech. Geoenviron. Eng. 132(11):1413–1426. https://doi.org/10.1061/(ASCE)1090-0241(2006)132:11(1413). 
+
+# Release notes:
+## Update 28-03-2024:
+The final version of the hands-on demonstration of the developed model is uploaded: Implement_CPT_MODEL_KJGRD_SDEE_v1.1.ipynb.
+
