@@ -46,4 +46,6 @@ Boulanger, R. W., and I. M. Idriss. 2016. Liquefaction susceptibility criteria f
 # Release notes:
 ## Update 28-03-2024:
 The final version of the hands-on demonstration of the developed model is uploaded: Implement_CPT_MODEL_KJGRD_SDEE_v1.1.ipynb. An interactive online video tutorial will be uploaded soon in the next release.
+## Update 06-07-2025:
+I have demonstrated the implementation of developed ML models for liquefaction potential assessment of soils in this YouTube video: https://youtu.be/WpOuqLEf5I0?si=-J8wzkP9PkgLch8M. 
 
